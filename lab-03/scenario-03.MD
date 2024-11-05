@@ -1,4 +1,4 @@
-## Test 3
+## Escenario 3
 
 ```
 TEST UIResponsiveness

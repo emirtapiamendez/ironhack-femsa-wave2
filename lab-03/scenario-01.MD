@@ -1,4 +1,4 @@
-## Test 1
+## Escenario 1
 
 ```
 TEST UserAuthentication
